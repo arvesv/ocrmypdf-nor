@@ -1,2 +1,3 @@
 # dockerfiles
-For storing various Dockerfiles I use
+This is a docker image for extending [ocrmypdf](https://github.com/jbarlow83/OCRmyPDF) with norwegian.
+
